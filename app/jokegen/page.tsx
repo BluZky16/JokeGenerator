@@ -38,7 +38,7 @@ export default function Joke() {
     <div className="text-center mb-8">
       <h1 className="text-4xl font-bold mb-2">Joke Generator</h1>
       <p className="text-lg text-gray-600">
-        {"Don't let the silence get to you."}
+        Don&apos;t let the silence get to you.
       </p>
     </div>
     <div className="relative flex flex-col gap-4 w-full max-w-md">
